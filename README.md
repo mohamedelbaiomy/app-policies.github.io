@@ -1,1 +1,1 @@
-# app-policies.github.io
+# app-policies
