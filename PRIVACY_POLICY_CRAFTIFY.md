@@ -18,8 +18,8 @@ Here are the types of personal information we collect:
 ### 2. Use Of Data
 
 - Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
-- Provide, troubleshoot, and improve Amazon Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Amazon Services.
-- Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Amazon Services.
+- Provide, troubleshoot, and improve Craftify Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of the Craftify Services.
+- Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with Craftify Services.
 
 
 ### 3. How Craftify protects your data
@@ -49,5 +49,3 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 - [LinkedIn](https://www.linkedin.com/in/mohamed-elbaiomy262003/)
 
 - [FaceBook](https://www.facebook.com/Original262003)
-
-
