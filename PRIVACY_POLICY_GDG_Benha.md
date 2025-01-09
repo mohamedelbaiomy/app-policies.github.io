@@ -1,24 +1,28 @@
 
-# Terms of Service
+# Terms of Service - Privacy Policy
 
-Welcome to **GDG On Campus Benha** ,
+Welcome to **GDG On Campus Benha**, Your gateway to excellence and creativity
 
 ##  1. Information Collection
 
  **`Personal Data`**
 
-When you sign up for a Lexifly account, we may collect your name, email address, and any other information you provide.
+When you sign up for a GDG Benha account, we collect email address, and any other information you provide.
 
 We may ask you to confirm your registration information ( your email address ) to continue using the Service. If you choose not to do so, your access to the Service may be restricted or terminated.
 
+After registering, you can upload your personal photo and some personal data such as your phone number and a brief summary about yourself, but you can not upload all this data if you want and it will not affect your use of the application.
+
+As for the camera permissions, they are specific to the core team so that our team can scan people applying to the team’s events. No images taken from the camera are collected to be stored or to train AI models. Once any member of the team scans the event applicant to record their attendance, the camera’s role ends and nothing taken from it is stored.
+
 ### 2. Use Of Data
 
- - To provide, maintain, and improve the Lexifly’s core features
+ - To provide, maintain, and improve the core features of the app
 
 
-### 3. How Lexifly protects your data
+### 3. How GDG Benha protects your data
 
-- We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. We retain your information for as long as necessary to provide the Lexifly’s services and to comply with our legal obligations.
+- We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. We retain your information for as long as necessary to provide our services and to comply with our legal obligations.
 
 - If the user wants to completely delete his account data, he can click on the Delete Account button from within the app, and his email, username, password, and any other data linked to the account will be completely deleted.
 
@@ -29,7 +33,7 @@ We may ask you to confirm your registration information ( your email address ) t
 
 ### 4. Third-Party Services
 
-Lexifly may integrate with or contain links to third-party services, such as social media platforms or payment providers. These third-party services have their own privacy policies, and we are not responsible for the privacy practices of these services.
+GDG on Campus Benha app may integrate with or contain links to third-party services, such as social media platforms or payment providers. These third-party services have their own privacy policies, and we are not responsible for the privacy practices of these services.
 
 
 ### 5. Changes to This Privacy Policy
