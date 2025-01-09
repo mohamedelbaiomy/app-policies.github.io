@@ -17,6 +17,8 @@ After registering, you can upload your personal photo and some personal data suc
 
 As for the camera permissions, they are specific to the core team so that our team can scan people applying to the team’s events, so they are completely unimportant to the applicants. No images taken from the camera are collected to be stored or to train AI models. Once any member of the team scans the event applicant to record their attendance, the camera’s role ends and nothing taken from it is stored.
 
+When the code is sent to applicants via email, the code image is stored on the sender's device because it is sent as an attachment via email.
+
 ### 2. Use Of Data
 
  - To provide, maintain, and improve the core features of the app
