@@ -3,6 +3,8 @@
 
 Welcome to **GDG On Campus Benha**, Your gateway to excellence and creativity
 
+The application is designed to manage the team and its events in terms of registering students for events and entering them with the code that appears to each student. The core team also uses it to scan students and at the end of the event it displays all registered students for easy access and complete organization in the event.
+
 ##  1. Information Collection
 
  **`Personal Data`**
