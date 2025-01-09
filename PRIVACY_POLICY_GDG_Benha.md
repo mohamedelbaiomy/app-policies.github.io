@@ -1,7 +1,7 @@
 
 # Terms of Service
 
-Welcome to **GDG On Campus** ,
+Welcome to **GDG On Campus Benha** ,
 
 ##  1. Information Collection
 
