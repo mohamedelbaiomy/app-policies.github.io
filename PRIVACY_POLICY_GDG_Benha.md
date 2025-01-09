@@ -1,7 +1,7 @@
 
 # Terms of Service
 
-Welcome to **Lexifly** , a powerful all-in-one productivity app that streamlines essential everyday tasks.
+Welcome to **GDG On Campus** ,
 
 ##  1. Information Collection
 
