@@ -13,7 +13,7 @@ We may ask you to confirm your registration information ( your email address ) t
 
 After registering, you can upload your personal photo and some personal data such as your phone number and a brief summary about yourself, but you can not upload all this data if you want and it will not affect your use of the application.
 
-As for the camera permissions, they are specific to the core team so that our team can scan people applying to the team’s events. No images taken from the camera are collected to be stored or to train AI models. Once any member of the team scans the event applicant to record their attendance, the camera’s role ends and nothing taken from it is stored.
+As for the camera permissions, they are specific to the core team so that our team can scan people applying to the team’s events, so they are completely unimportant to the applicants. No images taken from the camera are collected to be stored or to train AI models. Once any member of the team scans the event applicant to record their attendance, the camera’s role ends and nothing taken from it is stored.
 
 ### 2. Use Of Data
 
