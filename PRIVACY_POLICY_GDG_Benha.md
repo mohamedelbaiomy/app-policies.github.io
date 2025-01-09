@@ -38,7 +38,7 @@ GDG on Campus Benha app may integrate with or contain links to third-party servi
 
 ### 5. Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the updated policy within the Money App.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the updated policy within the App.
 
 ## Authors
 
