@@ -1,7 +1,7 @@
 
-# Welcome to our Documentation Page
+# Welcome to Documentation Page - Mohamed Elbaiomy
 
-This site hosts the privacy policy and other legal documents for our applications. Below is the privacy policy for our apps:
+This site hosts the privacy policy and other legal documents for my applications. Below is the privacy policy :
 
 
 - [Privacy policy for Lexifly](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_LEXIFLY.html)
