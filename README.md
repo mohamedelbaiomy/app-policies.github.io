@@ -10,7 +10,7 @@ This site hosts the privacy policy and other legal documents for my applications
 
 <br>
 
-- [Privacy policy for Sakank](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_SAKANK.html)
+- [Privacy Policy for Sakank](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_SAKANK.html)
 
 - [Terms of Service for Sakank](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_SAKANK.html)
 
