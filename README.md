@@ -7,3 +7,9 @@ This site hosts the privacy policy and other legal documents for my applications
 - [Privacy policy for Lexifly](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_LEXIFLY.html)
 - [Privacy policy for Craftify](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_CRAFTIFY.html)
 - [Privacy policy for GDG on Campus Benha](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_GDG_Benha.html)
+
+<br>
+
+- [Privacy policy for Sakank](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_SAKANK.html)
+
+- [Terms of Service for Sakank](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_SAKANK.html)
