@@ -16,6 +16,12 @@ This site hosts the privacy policy and other legal documents for my applications
 
 <br>
 
+<br>
+
+- [Privacy Policy for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_RFFE_MASTER.html)
+
+<br>
+
 ### About Me
 Hello! I'm **Mohamed Elbaiomy**, a Software developer with a strong focus on mobile development, specializing in Flutter. With over four years of programming experience and two years specifically in mobile applications.
 
