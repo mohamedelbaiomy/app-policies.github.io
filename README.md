@@ -20,6 +20,8 @@ This site hosts the privacy policy and other legal documents for my applications
 
 - [Privacy Policy for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_RFFE_MASTER.html)
 
+- [Terms of Service for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_RFFE_MASTER.html)
+
 <br>
 
 ### About Me
