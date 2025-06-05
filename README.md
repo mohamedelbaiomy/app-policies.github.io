@@ -18,6 +18,13 @@ This site hosts the privacy policy and other legal documents for my applications
 
 <br>
 
+- [Privacy Policy for Nuqta](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_NUQTA.html)
+
+- [Terms of Service for Nuqta](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_NUQTA.html)
+
+
+<br>
+
 - [Privacy Policy for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_RFFE_MASTER.html)
 
 - [Terms of Service for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_RFFE_MASTER.html)
