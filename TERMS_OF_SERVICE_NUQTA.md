@@ -164,3 +164,7 @@ Nuqta integrates with:
 ---
 
 **Thank you for being part of the Nuqta community. Together, we can help save lives through safe and efficient blood donation. 🩸**
+
+## Author - Mohamed Elbaiomy
+
+- [Github](https://github.com/mohamedelbaiomy) - [LinkedIn](https://www.linkedin.com/in/mohamed-elbaiomy262003/) - [FaceBook](https://www.facebook.com/Original262003)
