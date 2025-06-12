@@ -390,7 +390,3 @@ When we make significant changes:
 ---
 
 **Thank you for trusting Nuqta with your information. We are committed to protecting your privacy while helping save lives through blood donation. 🩸**
-
-## Author - Mohamed Elbaiomy
-
-- [Github](https://github.com/mohamedelbaiomy) - [LinkedIn](https://www.linkedin.com/in/mohamed-elbaiomy262003/) - [FaceBook](https://www.facebook.com/Original262003)
