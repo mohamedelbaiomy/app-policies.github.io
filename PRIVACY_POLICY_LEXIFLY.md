@@ -1,5 +1,5 @@
 # Lexifly Privacy Policy
-Last Updated: 7/1/2025
+Last Updated: 1/7/2025
 
 At Lexifly ("we," "us," or "our"), we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App") and related services ("Service").
 
