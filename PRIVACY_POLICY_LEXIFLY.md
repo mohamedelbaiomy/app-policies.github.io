@@ -1,47 +1,101 @@
+# Lexifly Privacy Policy
+Last Updated: 7/1/2025
 
-# Terms of Service
+At Lexifly ("we," "us," or "our"), we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App") and related services ("Service").
 
-Welcome to **Lexifly** , a powerful all-in-one productivity app that streamlines essential everyday tasks.
+By using Lexifly, you consent to the practices described in this policy. If you do not agree, please do not use the App.
 
-##  1. Information Collection
+## 1. Information We Collect
+A. Personal Data
 
- **`Personal Data`**
+When you register for an account, we may collect:
+  - Name
+  - Email address
+  - Username & password
 
-When you sign up for a Lexifly account, we may collect your name, email address, and any other information you provide.
+B. Usage Data
 
-We may ask you to confirm your registration information ( your email address ) to continue using the Service. If you choose not to do so, your access to the Service may be restricted or terminated.
+We may automatically collect:
+- Device information (e.g., model, OS version)
+- IP address & approximate location
+- App activity (e.g., features used, session duration)
+- Crash reports & diagnostics (for troubleshooting)
 
-### 2. Use Of Data
+C. User Content
 
- - To provide, maintain, and improve the Lexifly’s core features
+Uploaded files (e.g., images, documents)
 
+AI-generated content (e.g., text, summaries)
 
-### 3. How Lexifly protects your data
+* Note: Your images and documents are not used to train our AI models.
 
-- We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. We retain your information for as long as necessary to provide the Lexifly’s services and to comply with our legal obligations.
+## 2. How We Use Your Data
 
-- If the user wants to completely delete his account data, he can click on the Delete Account button from within the app, and his email, username, password, and any other data linked to the account will be completely deleted.
+We use your information to:
 
-- Your images aren’t used to train our AI technologies.
+- Provide, maintain, and improve Lexifly
+- Verify and secure your account
+- Respond to support requests
+- Analyze usage trends for better performance
+- Comply with legal obligations
 
-- You have the right to access, update, and delete your personal information. You can also choose to opt-out of certain features, such as push notifications.
+## 3. Data Sharing & Third Parties
 
+We do not sell your personal data. However, we may share information with:
 
-### 4. Third-Party Services
+- Service providers (e.g., hosting, analytics, payment processors)
+- Legal authorities (if required by law)
+- Business partners (only with your consent)
+- Third-party services (e.g., Google, Apple, social logins) have their own privacy policies.
 
-Lexifly may integrate with or contain links to third-party services, such as social media platforms or payment providers. These third-party services have their own privacy policies, and we are not responsible for the privacy practices of these services.
+## 4. Data Security
 
+We implement industry-standard measures to protect your data, including:
 
-### 5. Changes to This Privacy Policy
+- Encryption (in transit and at rest)
+- Access controls
+- Regular security audits
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the updated policy within the App.
+* However, no system is 100% secure—please use strong passwords and enable two-factor authentication (if available).
 
-## Authors
+## 5. Your Rights & Choices
 
-- [Github](https://github.com/mohamedelbaiomy)
+You can:
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-elbaiomy262003/)
+- Access, update, or delete your account data
+- Opt out of marketing emails
+- Disable push notifications
+- Request data portability (where applicable) To delete your account permanently, go to Settings > Delete Account.
 
-- [FaceBook](https://www.facebook.com/Original262003)
+## 6. Data Retention
 
+We retain your data only as long as necessary to:
 
+- Provide Lexifly’s services
+- Comply with legal requirements
+- Resolve disputes
+- Inactive accounts may be deleted after 12 months.
+
+## 7. International Data Transfers
+
+If you are outside our primary jurisdiction, your data may be processed in other countries with different privacy laws. We ensure adequate safeguards (e.g., GDPR compliance for EU users).
+
+## 8. Children’s Privacy
+
+Lexifly is not intended for children under 13. We do not knowingly collect data from minors. If we discover such data, we will delete it promptly.
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy periodically. You will be notified via:
+
+- In-app alerts
+- Email (if applicable)
+
+Continued use of Lexifly after changes means you accept the updated policy.
+
+## 10. Contact Us
+- For privacy-related questions or requests, email us at: mohamedelbaiomy262003@gmail.com
+
+## Author - Mohamed Elbaiomy
+
+- [Github](https://github.com/mohamedelbaiomy) - [LinkedIn](https://www.linkedin.com/in/mohamed-elbaiomy262003/) - [FaceBook](https://www.facebook.com/Original262003)
