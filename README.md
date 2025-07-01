@@ -4,7 +4,6 @@
 This site hosts the privacy policy and other legal documents for my applications. Below is the privacy policy :
 
 
-- [Privacy Policy for Lexifly](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_LEXIFLY.html)
 - [Privacy Policy for Craftify](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_CRAFTIFY.html)
 - [Privacy Policy for GDG on Campus Benha](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_GDG_Benha.html)
 
@@ -29,6 +28,14 @@ This site hosts the privacy policy and other legal documents for my applications
 - [Terms of Service for RFFE Master](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_RFFE_MASTER.html)
 
 <br>
+
+- [Privacy Policy for Lexifly](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_LEXIFLY.html)
+  
+- [Terms of Service for Lexifly](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_LEXIFLY.html)
+
+<br>
+
+
 
 ### About Me
 Hello! I'm **Mohamed Elbaiomy**, a Software developer with a strong focus on mobile development, specializing in Flutter. With over four years of programming experience and two years specifically in mobile applications.
