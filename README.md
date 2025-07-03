@@ -3,8 +3,6 @@
 
 This site hosts the privacy policy and other legal documents for my applications. Below is the privacy policy :
 
-
-- [Privacy Policy for Craftify](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_CRAFTIFY.html)
 - [Privacy Policy for GDG on Campus Benha](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_GDG_Benha.html)
 
 <br>
@@ -35,6 +33,10 @@ This site hosts the privacy policy and other legal documents for my applications
 
 <br>
 
+- [Privacy Policy for Craftify](https://mohamedelbaiomy.github.io/app-policies.github.io/PRIVACY_POLICY_CRAFTIFY.html)
+- [Terms of Service for Craftify](https://mohamedelbaiomy.github.io/app-policies.github.io/TERMS_OF_SERVICE_CRAFTIFY.html)
+
+<br>
 
 
 ### About Me
