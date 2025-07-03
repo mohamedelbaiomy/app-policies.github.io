@@ -2,7 +2,7 @@
 #### Last Updated: 3/7/2025
 
 ## 1. Information We Collect
-- Personal Data: Name, email, shipping address
+- Personal Data: Name, Email, Profile Image, Phone, Location, shipping address
 - Third-Party Data: Updated delivery info from carriers.
 
 ## 2. How We Use Your Data
