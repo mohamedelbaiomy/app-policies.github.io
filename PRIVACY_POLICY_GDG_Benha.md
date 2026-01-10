@@ -9,7 +9,7 @@ The application is designed to manage the team and its events in terms of regist
 
  **`Personal Data`**
 
-When you sign up for a GDG Benha account, we collect email address, and any other information you provide.
+When you sign up for a GDGoC Benha account, we collect email address, and any other information you provide.
 
 We may ask you to confirm your registration information ( your email address ) to continue using the Service. If you choose not to do so, your access to the Service may be restricted or terminated.
 
